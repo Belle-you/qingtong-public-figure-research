@@ -1,0 +1,4 @@
+interface:
+  display_name: "清瞳公众人物公开信息尽调"
+  short_description: "基于可核验公开来源生成中立、可追溯的公众人物尽调报告"
+  default_prompt: "Use $qingtong-public-figure-research to research a public figure using public, verifiable sources and produce a cited risk report."
